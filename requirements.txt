@@ -1,0 +1,6 @@
+numpy
+panda
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
